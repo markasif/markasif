@@ -8,21 +8,23 @@ I'm an aspiring **Software Engineer** with a passion for **Data Science** and **
 
 - 🌱 **Currently Learning:** Advanced Machine Learning, Full Stack Development
 - 👯 **Looking to collaborate on:** Open-source projects, Data Science challenges
-- 💬 **Ask me about:** Python, JavaScript, Data Visualization, Web Development
+- 💬 **Ask me about:** Python, JavaScript, Machine Learning, React
 - 📫 **How to reach me:** [apasif243@gmail.com](mailto:apasif243@gmail.com)
 - ⚡ **Fun fact:** I'm not just a coder; I'm also a proud grower of fruit trees! 🍋🥭
-
 ## 🛠️ My Toolbox
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/-Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+</div>
+
 
 ### Libraries & Tools
 
@@ -35,7 +37,7 @@ I'm an aspiring **Software Engineer** with a passion for **Data Science** and **
 ### 🔍 Breast Cancer Detection Analysis
 Using machine learning to predict breast cancer with high accuracy. This project leverages Python's data science libraries to deliver fast and reliable predictions.
 - **Tech Stack:** Python, Scikit-learn, Pandas, Flask, OpenCV
-- **[Repo Link](https://github.com/markasif/breast-cancer-detection)**
+- **[Repo Link](https://github.com/markasif/Breast-Cancer-Analysis-Using-Machine-Learning.git)**
 
 ### 🗳️ Voting Management System
 A secure and user-friendly web application for managing student elections.
@@ -45,7 +47,7 @@ A secure and user-friendly web application for managing student elections.
 ### 🍔 Food Delivery App
 A dynamic web application that makes ordering food a breeze. It’s error-friendly and designed for a seamless user experience.
 - **Tech Stack:** HTML, CSS, JavaScript, Java, MySQL
-- **[Repo Link](https://github.com/markasif/food-delivery-app)**
+- **[Repo Link](https://github.com/markasif/food-panda.git)**
 
 ## 💼 Experience
 
