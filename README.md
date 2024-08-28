@@ -1,7 +1,6 @@
-## Hi there 👋
 # Hi there, I'm Mohammed Asif Ap! 👋
 
-![Welcome Banner](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
+"C:\Users\apasi\Downloads\be031f8d02ca8cc404d44be54ee2c493.gif"
 
 ## 🚀 About Me
 
