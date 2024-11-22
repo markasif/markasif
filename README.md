@@ -39,10 +39,10 @@ Using machine learning to predict breast cancer with high accuracy. This project
 - **Tech Stack:** Python, Scikit-learn, Pandas, Flask, OpenCV
 - **[Repo Link](https://github.com/markasif/Breast-Cancer-Analysis-Using-Machine-Learning.git)**
 
-### 🗳️ Voting Management System
-A secure and user-friendly web application for managing student elections.
-- **Tech Stack:** HTML, CSS, JavaScript, Java, MySQL
-- **[Repo Link](https://github.com/markasif/voting-management-system)**
+### 🔍 AI Video Highlight Feature Assignment
+A cutting-edge project focused on developing an AI model that extracts and highlights key sections of uploaded YouTube transcripts. This feature helps users quickly navigate to the most important parts of long videos.
+-**Tech Stack:** Python, Natural Language Processing, Machine Learning
+**[Repo Link](https://github.com/markasif/AI-Video-Highlight-Feature-Assignment.git)**
 
 ### 🍔 Food Delivery App
 A dynamic web application that makes ordering food a breeze. It’s error-friendly and designed for a seamless user experience.
@@ -80,5 +80,3 @@ A dynamic web application that makes ordering food a breeze. It’s error-friend
 ![Coding GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 ---
-
-this my readme of github i need make it more attractive and creative the i need to change project voting machine to AI Video Highlight Feature Assignment and describe that project it basically deal with making of model which can help to find important highlight of uploded youtube transcript this is the repo link: https://github.com/markasif/AI-Video-Highlight-Feature-Assignment.git
