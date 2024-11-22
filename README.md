@@ -23,17 +23,29 @@ I'm an aspiring **Software Engineer** with a passion for **Data Science** and **
   <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/-Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/-XGBoost-3E3D40?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/-LightGBM-9E1F63?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B00?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
 
 ### Libraries & Tools
-
-- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Web Development:** Flask, Bootstrap, Selenium
-- **IDE & Tools:** VS Code, Jupyter Notebook, Apache Maven, MySQL
+- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers, FastAI, OpenCV
+- **NLP:** SpaCy, NLTK, Gensim
+- **Web Development:** Flask, Streamlit, Dash, Bootstrap
+- **Data Engineering:** Apache Airflow, MLflow
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+- **IDE & Tools:** VS Code, Jupyter Notebook, PyCharm, Git, Docker
 
 ## 🌟 Projects
-
 ### 🔍 Breast Cancer Detection Analysis
 Using machine learning to predict breast cancer with high accuracy. This project leverages Python's data science libraries to deliver fast and reliable predictions.
 - **Tech Stack:** Python, Scikit-learn, Pandas, Flask, OpenCV
@@ -51,7 +63,7 @@ A dynamic web application that makes ordering food a breeze. It’s error-friend
 
 ## 💼 Experience
 
-- **Data Science Intern** at Futura Lab, Kerala, India | *April 2024 – Present*
+- **Data Science Intern** at Futura Lab, Kerala, India | *April 2024 – September 2024*
   - Gained practical experience in real-world data science projects.
   - Proficient in tools like Jupyter Notebook, Tableau, Power BI.
   - Focused on writing efficient and clean code for data analysis.
