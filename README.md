@@ -134,9 +134,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markasif&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markasif&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=markasif&theme=radical&background=0D1117&border=DD2727&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakNum=DD2727" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasif&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="48%">
 </div>
+
+
 
 ---
 
