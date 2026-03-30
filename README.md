@@ -23,11 +23,41 @@
 
 <div align="center">
 
-⚡ Scalable Web Applications  
-⚡ Real-Time Systems & Dashboards  
-⚡ Admin Panels & Dynamic Platforms  
-⚡ AI Apps (RAG, LLM, Semantic Search)  
-⚡ Performance Optimization & SEO  
+<table>
+<tr>
+<td align="center" width="250">
+🚀 <br><b>Scalable Apps</b><br>
+Build production-ready web apps with performance-first architecture
+</td>
+
+<td align="center" width="250">
+⚡ <br><b>Real-Time Systems</b><br>
+Develop dashboards with live data using WebSocket & async workflows
+</td>
+
+<td align="center" width="250">
+🧩 <br><b>Admin Platforms</b><br>
+Create dynamic admin panels with full content control
+</td>
+</tr>
+
+<tr>
+<td align="center">
+🤖 <br><b>AI Applications</b><br>
+RAG systems, LLM apps, semantic search solutions
+</td>
+
+<td align="center">
+📈 <br><b>Performance & SEO</b><br>
+Optimize speed, UX, and search visibility
+</td>
+
+<td align="center">
+🛠️ <br><b>Full Stack Systems</b><br>
+End-to-end development from UI to deployment
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -94,32 +124,33 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=markasif&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=markasif&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=markasif&theme=radical" width="48%"/>
+
+<br/>
 
 </div>
 
----
+### 🌐 Connect With Me
 
-## 🌍 Connect With Me
+---
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/asifap/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="mailto:apasif243@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 <a href="https://github.com/markasif">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 </div>
 
----
 
 <div align="center">
 
