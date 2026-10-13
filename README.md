@@ -1,204 +1,308 @@
+
+<!-- ==================== ABOUT ME ==================== -->
+
+<h2 align="center">ABOUT ME</h2>
+
+<p align="center">
+  <samp>ENGINEERING INTELLIGENCE INTO PRODUCTS</samp>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+
+### Hey, I'm Mohammed Asif 👋
+
+I'm an **AI Engineer & Full Stack Developer** focused on building intelligent applications, agentic workflows, and scalable digital products.
+
+I enjoy working at the intersection of **AI systems and product engineering** — from designing retrieval pipelines and MCP integrations to shipping complete web applications.
+
+- 🤖 &nbsp; **AI Engineering** — RAG, AI agents, LLM integrations
+- 🧩 &nbsp; **System Building** — MCP servers, APIs, backend architecture
+- 🌐 &nbsp; **Product Development** — React, Next.js, Node.js
+- 🚀 &nbsp; **Production Engineering** — performance, security, testing, deployment
+
+<p>
+  <a href="https://my-portfolio-4x77.vercel.app/">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-5C3EE8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asifap7">
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=00C2FF" />
+  </a>
+</p>
+
+  </td>
+  <td width="35%" valign="top">
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:5C3EE8,100:00C2FF&height=240&section=header&text=Mohammed%20Asif&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" />
-
-<a href="https://github.com/markasif">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=820&height=50&lines=Building+RAG+systems+%26+multi-agent+architectures;Creating+MCP+servers+%26+AI+agent+workflows;Shipping+scalable+full+stack+products;10%2B+production+apps+%7C+Real-time+dashboards" alt="Typing animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:5C3EE8,100:00C2FF&text=BUILD.%20INTEGRATE.%20SHIP.&fontColor=FFFFFF&fontSize=15&fontAlignY=55" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20%2F%20Full%20Stack%20roles-00C2FF?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/Based%20in-India-5C3EE8?style=for-the-badge&labelColor=0F172A" />
+**CURRENT FOCUS**
 
-<br/><br/>
+AI-powered products
 
-<a href="https://my-portfolio-4x77.vercel.app/#projects"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/asifap/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:apasif243@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://neointelli.com/"><img src="https://img.shields.io/badge/Neointelli-5C3EE8?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+<br/>
+
+**AI SYSTEMS**
+
+RAG · Agents · MCP
+
+<br/>
+
+**ENGINEERING**
+
+Full Stack · APIs · Cloud
+
+<br/>
+
+**EXPERIENCE**
+
+2+ years
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20AT%20NEOINTELLI-00C2FF?style=flat-square&labelColor=0F172A" />
 
 </div>
 
-<br/>
-
-## ⚡ About Me
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-I'm an **AI Engineer and Full Stack Developer (MERN)** with **2+ years of experience** building production web platforms and LLM-powered systems.
-
-- 🤖 Currently an **AI Engineer at [Neointelli](https://neointelli.com/)** (Bengaluru), designing **RAG pipelines, multi-agent architectures and MCP servers**
-- 🧑‍💼 Building **NeoHireX**, an end-to-end AI recruitment platform that handles a company's full hiring workflow
-- 🎨 Leading the **redesign of the Neointelli website**
-- 🌍 Delivered **live payment and VAT-enabled commerce and billing platforms** for Saudi clients
-- 🚀 Shipped **10+ production B2B / SaaS systems** across industries
-- ⚡ Cut delivery time by **~30%** by standardising AI-assisted workflows
-
-</td>
-<td width="38%" valign="top">
-
-```yaml
-name: Mohammed Asif
-role: AI Engineer
-focus:
-  - RAG Systems
-  - Multi-Agent Architectures
-  - MCP Servers & Integrations
-  - Full Stack (MERN)
-experience: 2+ years
-location: India
-status: Building @ Neointelli
-```
-
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5C3EE8,50:00C2FF,100:5C3EE8&section=header" width="100%" />
+</p>
 
-## 🧠 What I Do
+<!-- ==================== FEATURED WORK ==================== -->
 
-<div align="center">
+<h2 align="center">SELECTED WORK</h2>
 
-<table>
-<tr>
-<td align="center" width="25%">🤖<br/><b>AI Agents & MCP</b><br/><sub>Multi-agent workflows, custom MCP servers, tool integrations</sub></td>
-<td align="center" width="25%">📚<br/><b>RAG Systems</b><br/><sub>Vector search, conversational memory, semantic retrieval</sub></td>
-<td align="center" width="25%">⚡<br/><b>Real-Time Systems</b><br/><sub>WebSocket dashboards, RBAC, live data feeds</sub></td>
-<td align="center" width="25%">💳<br/><b>Payments & Billing</b><br/><sub>Gateway integration, VAT-compliant invoicing</sub></td>
-</tr>
-<tr>
-<td align="center">🧩<br/><b>Admin Platforms</b><br/><sub>CMS-driven apps with full content control</sub></td>
-<td align="center">📈<br/><b>Performance & SEO</b><br/><sub>Core Web Vitals, structured data, 90+ PageSpeed</sub></td>
-<td align="center">🛠️<br/><b>End-to-End Delivery</b><br/><sub>UI to API to database to deployment</sub></td>
-<td align="center">🧪<br/><b>Quality</b><br/><sub>Jest tests, Zod validation, CI/CD pipelines</sub></td>
-</tr>
+<p align="center">
+  <samp>A COLLECTION OF AI SYSTEMS, DIGITAL PRODUCTS & ENGINEERING WORK</samp>
+</p>
+
+<br/>
+
+<!-- FEATURE PROJECT 01 -->
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+
+<p>
+  <img src="https://img.shields.io/badge/01-ARTIFICIAL%20INTELLIGENCE-5C3EE8?style=flat-square" />
+  <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-0F172A?style=flat-square&labelColor=0F172A" />
+</p>
+
+# NeoHireX
+
+### REIMAGINING THE RECRUITMENT WORKFLOW
+
+An AI-powered recruitment platform designed to bring the hiring workflow into one intelligent system — combining automation, retrieval, and agent-driven capabilities.
+
+<br/>
+
+`RAG` &nbsp; `AI AGENTS` &nbsp; `MCP` &nbsp; `FULL STACK`
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT%20WORKFLOWS-00C2FF?style=flat-square&labelColor=0F172A" />
+
+    </td>
+  </tr>
 </table>
 
-</div>
+<br/>
 
----
+<!-- FEATURE PROJECT 02 -->
 
-## 🛠️ Tech Stack
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/02-CLIENT%20ENGINEERING-00A67E?style=flat-square" />
+  <img src="https://img.shields.io/badge/COMMERCE%20%26%20BILLING-0F172A?style=flat-square" />
+</p>
 
-**🤖 AI / LLM**
+# Production Commerce & Billing
 
-<img src="https://img.shields.io/badge/RAG-5C3EE8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-00C2FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-0F172A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Hermes%20Agents-7C3AED?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-5C3EE8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector%20Embeddings-0EA5E9?style=for-the-badge&logoColor=white" />
+### BUILT FOR REAL BUSINESS OPERATIONS
 
-<br/><br/>
-
-**🌐 Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind&theme=dark" />
-
-**⚙️ Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
-
-**🗄️ Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,vercel&theme=dark" />
-
-**🧰 Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,jest&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Featured Work
-
-### 🏢 At Neointelli
-
-| Project | What it is | Focus |
-|---|---|---|
-| 🧑‍💼 **NeoHireX** | End-to-end AI recruitment platform that handles the full hiring workflow for companies | RAG • Agents • MCP |
-| 🎨 **[Neointelli Website](https://neointelli.com/)** | Full redesign of the company website | Modern component-based front end |
-
-### 🌍 Freelance (Live, Saudi Clients)
-
-| Project | What it is | Highlights |
-|---|---|---|
-| ☕ **[Goodwell Coffee](http://goodwellcoffee.com/)** | Full e-commerce store: frontend, backend, database | Online payments • VAT calculation |
-| 🧾 **[Broastfly Billing](https://broastfly.com/billing/)** | Billing system used for daily operations | Payment integration • VAT-compliant invoicing |
-
-### 💼 Production Platforms
-
-| Project | What it is | Highlights |
-|---|---|---|
-| 💹 **[Forex Trading CRM](https://zyvest.com/)** | Real-time B2B trading system with dashboards and role-based workflows | Mobile LCP **4.1s → 3.1s** • Zero role-access bugs • 0% → 60% test coverage |
-| 📊 **[Depro Trading](https://www.deprotrading.com/)** | Admin-driven platform with analytics and SEO | Supabase RLS • **90+ mobile PageSpeed** • Cloudinary CDN |
-| 🥋 **[WFSK Karate Federation](https://wfsk-world-federation-of-shotokan-k.vercel.app/)** | CMS-driven global federation website | **70%+ content admin-managed** • ~40% faster feature builds |
-
-### 🤖 AI Projects
-
-| Project | What it is | Highlights |
-|---|---|---|
-| 💬 **[RAG Chatbot with Memory](https://github.com/markasif/Rag-Q-N-With-History)** | Conversational RAG over your documents | Sub-300ms retrieval • 20+ turn context • LangChain + FAISS + FastAPI |
-| 📰 **[AI News Aggregator](https://github.com/markasif/News_Generator)** | Semantic news search engine | 4× faster than keyword search • LangChain + FAISS |
-
----
-
-## 🗺️ Career Timeline
-
-```mermaid
-timeline
-    title Journey So Far
-    2019 - 2022 : BCA at Kristu Jayanti University
-    2022 - 2024 : MCA at Lovely Professional University
-    Jul 2024 - Jan 2025 : Data Science Intern at Futura Labs
-    Jan 2025 - Aug 2025 : Freelance Full Stack Developer
-    Aug 2025 - Mar 2026 : Full Stack Developer at Think Forge Global
-    Jun 2026 - Present : Freelance projects for Saudi clients
-    Jul 2026 - Present : AI Engineer at Neointelli
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=markasif&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=00C2FF&icon_color=5C3EE8&text_color=E2E8F0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasif&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=00C2FF&text_color=E2E8F0" width="49%" />
+Full-stack platforms developed for Saudi clients, covering customer-facing experiences, backend services, database integration, online payments, and VAT-compliant billing workflows.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=markasif&theme=radical&hide_border=true&background=0F172A&ring=5C3EE8&fire=00C2FF&currStreakLabel=00C2FF" width="80%" />
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+**☕ GOODWELL COFFEE**
+
+E-commerce storefront with online payment integration and VAT calculation.
+
+[↗ Visit Website](http://goodwellcoffee.com/)
+
+    </td>
+    <td width="50%" valign="top">
+
+**🧾 BROASTFLY BILLING**
+
+Billing platform supporting operational workflows, payment integration, and VAT-compliant invoicing.
+
+[↗ Open Platform](https://broastfly.com/billing/)
+
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=markasif&theme=react-dark&hide_border=true&bg_color=0F172A&color=00C2FF&line=5C3EE8&point=FFFFFF&area=true&area_color=5C3EE8" width="100%" />
+`PAYMENT GATEWAYS` &nbsp; `VAT` &nbsp; `BACKEND APIS` &nbsp; `DATABASES`
 
-</div>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🤝 Let's Connect
+<!-- FEATURE PROJECT 03 -->
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
 
-I'm always open to talking about AI agents, RAG, MCP and full stack products.
+<p>
+  <img src="https://img.shields.io/badge/03-PLATFORM%20ENGINEERING-00C2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/PERFORMANCE%20%26%20SECURITY-0F172A?style=flat-square" />
+</p>
 
-<a href="https://www.linkedin.com/in/asifap/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>&nbsp;&nbsp;
-<a href="mailto:apasif243@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>&nbsp;&nbsp;
-<a href="https://github.com/markasif"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>&nbsp;&nbsp;
-<a href="https://my-portfolio-4x77.vercel.app/#projects"><img src="https://skillicons.dev/icons?i=vercel" width="48" /></a>
+# Systems That Scale
 
-<br/><br/>
+### PERFORMANCE IS A FEATURE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,100:00C2FF&height=120&section=footer&animation=twinkling" width="100%" />
+Engineering work across trading platforms, analytics products, and content-managed websites — focused on reliability, access control, speed, and maintainability.
 
-</div>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+
+**01 / ZYVEST**
+
+Forex Trading CRM
+
+- Mobile LCP: 4.1s → 3.1s
+- Test coverage: 0% → 60%
+- Role-based workflows
+
+[↗ Explore](https://zyvest.com/)
+
+    </td>
+    <td width="33%" valign="top">
+
+**02 / DEPRO TRADING**
+
+Analytics & SEO
+
+- 90+ mobile PageSpeed
+- Supabase RLS
+- Cloudinary CDN
+
+[↗ Explore](https://www.deprotrading.com/)
+
+    </td>
+    <td width="33%" valign="top">
+
+**03 / WFSK**
+
+Federation Platform
+
+- 70%+ content admin-managed
+- ~40% faster feature builds
+- CMS-driven website
+
+[↗ Explore](https://wfsk-world-federation-of-shotokan-k.vercel.app/)
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+`NEXT.JS` &nbsp; `TYPESCRIPT` &nbsp; `SUPABASE` &nbsp; `TESTING` &nbsp; `SEO`
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- FEATURE PROJECT 04 -->
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+
+<p>
+  <img src="https://img.shields.io/badge/04-LLM%20APPLICATIONS-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-0F172A?style=flat-square" />
+</p>
+
+# Experiments with Intelligence
+
+### FROM SEMANTIC RETRIEVAL TO CONTEXTUAL ANSWERS
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+#### 💬 Conversational RAG
+
+Document question-answering with semantic retrieval and conversational history.
+
+`LangChain` · `FAISS` · `FastAPI`
+
+[↗ View Repository](https://github.com/markasif/Rag-Q-N-With-History)
+
+    </td>
+    <td width="50%" valign="top">
+
+#### 📰 AI News Aggregator
+
+Semantic news discovery designed to retrieve relevant content beyond keyword matching.
+
+`LangChain` · `FAISS`
+
+[↗ View Repository](https://github.com/markasif/News_Generator)
+
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:5C3EE8,50:00C2FF,100:5C3EE8" width="100%" />
+</p>
+
+<p align="center">
+  <strong>HAVE AN INTERESTING PROBLEM TO SOLVE?</strong>
+  <br/>
+  <sub>I'm interested in AI engineering, agentic systems, and building useful products.</sub>
+  <br/><br/>
+  <a href="https://my-portfolio-4x77.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-5C3EE8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/markasif">
+    <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
