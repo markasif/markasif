@@ -1,34 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#111827"/></linearGradient>
-<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
-<radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.28"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
-<clipPath id="clip"><rect x="1" y="1" width="898" height="188" rx="18"/></clipPath>
-</defs>
-<style>
-.card{opacity:0;animation:in .8s ease 0.0s forwards}
-@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
-.dot{animation:pulse 1.8s ease-in-out infinite}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
-.border{stroke-dasharray:90 2180;animation:run 5s linear infinite}
-@keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-2270}}
-.shine{animation:shine 6s ease-in-out infinite}
-@keyframes shine{0%,100%{opacity:.5}50%{opacity:1}}
-</style>
-<g class="card">
-<rect x="1" y="1" width="898" height="188" rx="18" fill="url(#bg)" stroke="#1E293B" stroke-width="1.5"/>
-<g clip-path="url(#clip)"><rect class="shine" x="0" y="0" width="900" height="190" fill="url(#glow)"/></g>
-<rect class="border" x="1" y="1" width="898" height="188" rx="18" fill="none" stroke="url(#ac)" stroke-width="2.2" stroke-linecap="round"/>
-<rect x="24" y="22" width="40" height="40" rx="12" fill="url(#ac)" fill-opacity="0.18" stroke="#A78BFA" stroke-opacity="0.5"/>
-<text x="44" y="49" text-anchor="middle" font-size="20" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🧑‍💼</text>
-<text x="76" y="39" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#F8FAFC">NeoHireX</text>
-<text x="76" y="57" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" fill="#A78BFA" letter-spacing="1.2">NEOINTELLI · COMPANY PRODUCT</text>
-<rect x="760" y="24" width="120" height="22" rx="11" fill="#A78BFA" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.45"/>
-<circle class="dot" cx="774" cy="35" r="3.4" fill="#A78BFA"/>
-<text x="783" y="39" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.8" font-weight="700" fill="#E2E8F0" letter-spacing="0.8">IN DEVELOPMENT</text>
-<text x="24" y="92" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.8" fill="#94A3B8">End-to-end AI recruitment platform that handles a company&#x27;s</text><text x="24" y="111" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.8" fill="#94A3B8">full hiring workflow, from sourcing and screening to hiring.</text>
-<rect x="24" y="128" width="38" height="22" rx="11" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.45"/><text x="43" y="143" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" fill="#E2E8F0">RAG</text><rect x="69.8" y="128" width="77" height="22" rx="11" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.45"/><text x="108" y="143" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" fill="#E2E8F0">AI Agents</text><rect x="155.2" y="128" width="38" height="22" rx="11" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.45"/><text x="174" y="143" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" fill="#E2E8F0">MCP</text><rect x="201.0" y="128" width="84" height="22" rx="11" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.45"/><text x="243" y="143" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" fill="#E2E8F0">Full Stack</text>
-<line x1="24" y1="162" x2="876" y2="162" stroke="#1E293B"/>
-<text x="24" y="180" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="url(#ac)"><tspan fill="#A78BFA">&#9656; </tspan><tspan fill="#CBD5E1">Built at Neointelli, Bengaluru</tspan></text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="212" viewBox="0 0 900 212">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1426"/><stop offset="1" stop-color="#0A2236"/></linearGradient>
+<radialGradient id="gl" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.32"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<linearGradient id="gs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.14"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.03"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="212" rx="20"/></clipPath></defs>
+<style>.glint{animation:gl 7s ease-in-out infinite}
+@keyframes gl{0%,50%{transform:translateX(-120px) skewX(-20deg)}100%{transform:translateX(560px) skewX(-20deg)}}
+.dot{animation:pl 2s ease-in-out infinite}@keyframes pl{0%,100%{opacity:1}50%{opacity:.35}}</style>
+<rect width="900" height="212" rx="20" fill="url(#bg)"/>
+<g clip-path="url(#clip)"><rect width="900" height="212" fill="url(#gl)"/><rect class="glint" x="0" y="0" width="60" height="212" fill="#FFFFFF" fill-opacity="0.045"/></g>
+<rect x="0.5" y="0.5" width="899" height="211" rx="19.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+<rect x="24" y="22" width="44" height="44" rx="13" fill="url(#gs)"/>
+<g transform="translate(34 32) scale(1.000)" fill="none" stroke="#38BDF8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 20c0-3.5 2.7-6 6-6s6 2.5 6 6"/><circle cx="17.5" cy="9" r="2.4"/><path d="M16.5 14.3c3 .3 5 2.4 5 5.2"/></g>
+<text x="82" y="42" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">NeoHireX</text>
+<text x="82" y="60" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10.5" fill="#38BDF8" letter-spacing="1.3">NEOINTELLI · COMPANY PRODUCT</text>
+<rect x="758" y="24" width="122" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+<circle class="dot" cx="771" cy="35" r="3.2" fill="#38BDF8"/>
+<text x="780" y="38.5" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="9.6" font-weight="700" fill="#F8FAFC" letter-spacing="0.8">IN DEVELOPMENT</text>
+<text x="24" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#CBD5E1">End-to-end AI recruitment platform that handles a company&#x27;s</text><text x="24" y="117" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#CBD5E1">full hiring workflow, from sourcing and screening to hiring.</text>
+<rect x="24" y="132" width="40" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="44" y="148" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10.8" fill="#F8FAFC">RAG</text><rect x="72" y="132" width="80" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="112" y="148" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10.8" fill="#F8FAFC">AI Agents</text><rect x="160" y="132" width="40" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="180" y="148" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10.8" fill="#F8FAFC">MCP</text><rect x="208" y="132" width="87" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/><text x="252" y="148" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10.8" fill="#F8FAFC">Full Stack</text>
+<rect x="24" y="172" width="852" height="1" fill="#FFFFFF" fill-opacity="0.08"/>
+<text x="24" y="195" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.3" font-weight="600" fill="#F8FAFC"><tspan fill="#38BDF8">&#9656;  </tspan>Built at Neointelli, Bengaluru</text>
 </svg>
